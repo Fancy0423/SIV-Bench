@@ -1,0 +1,13 @@
+{
+    "model": {
+        "InternVL3-8B": {}
+    },
+    "data": {
+        "SIV-Bench": {
+            "class": "SIVBench",
+            "nframe": 16,
+            "fps": -1,
+            "subtitle_version": "origin"
+        }
+    }
+}
